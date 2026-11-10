@@ -6,3 +6,8 @@ gates and a 7-segment alphanumeric display, without the use of microcontrollers 
 programmable devices. The system allows users to press switches corresponding to different
 alphabets (A–Z), and displays the selected character by illuminating the appropriate
 segments on the display using combinational logic built purely with OR gates.
+
+
+
+<img width="553" height="417" alt="image" src="https://github.com/user-attachments/assets/de73b652-19ad-4281-ac58-f5bead9d7109" />
+
