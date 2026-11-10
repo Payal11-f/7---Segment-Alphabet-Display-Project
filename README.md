@@ -34,6 +34,9 @@ A real-time display system made using only gates and switches — no code, just 
 
 <img width="470" height="394" alt="image" src="https://github.com/user-attachments/assets/6a2b63d6-00a9-477b-b182-eef6eedee692" />
 
+<img width="593" height="582" alt="image" src="https://github.com/user-attachments/assets/ee8ab8b2-80fc-420b-b248-90e6d4e335bd" />
+
+
 #IMPLEMENTATION
 
 ### Design Segment Mapping:
