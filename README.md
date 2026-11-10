@@ -42,7 +42,7 @@ A real-time display system made using only gates and switches — no code, just 
 ### Design Segment Mapping:
 Identify which segments (a–n) need to be ON for each character (A–Z).
 Refer to the standard 14-segment display map for each letter.
-##Assign Switches:
+## Assign Switches:
 Connect each switch to represent a unique alphabet character.
 Each switch will serve as the input source (logic HIGH) for a specific character.
 ### Create OR Gate Logic:
