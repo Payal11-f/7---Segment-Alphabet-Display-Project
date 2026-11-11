@@ -4,7 +4,7 @@
 The objective of this project is to design a basic alphabet input system using only OR
 gates and a 7-segment alphanumeric display, without the use of microcontrollers or
 programmable devices. The system allows users to press switches corresponding to different
-alphabets (A–Z), and displays the selected character by illuminating the appropriate
+alphabets (A–I), and displays the selected character by illuminating the appropriate
 segments on the display using combinational logic built purely with OR gates.
 
 
@@ -32,7 +32,6 @@ A real-time display system made using only gates and switches — no code, just 
 
 <img width="515" height="502" alt="image" src="https://github.com/user-attachments/assets/3c3c0257-9467-493b-80d4-363274bb8dc2" />
 
-<img width="470" height="394" alt="image" src="https://github.com/user-attachments/assets/6a2b63d6-00a9-477b-b182-eef6eedee692" />
 
 <img width="593" height="582" alt="image" src="https://github.com/user-attachments/assets/ee8ab8b2-80fc-420b-b248-90e6d4e335bd" />
 
@@ -41,7 +40,7 @@ A real-time display system made using only gates and switches — no code, just 
 #IMPLEMENTATION
 
 ### Design Segment Mapping:
-Identify which segments (a–n) need to be ON for each character (A–Z).
+Identify which segments (a–n) need to be ON for each character (A–I).
 Refer to the standard 14-segment display map for each letter.
 ## Assign Switches:
 Connect each switch to represent a unique alphabet character.
@@ -64,7 +63,7 @@ on the display
 ## RESULT
 The project successfully achieved the objective of designing a functional alphabet input 
 system using OR gates and a 7-segment alphanumeric display. Key outcomes include:
-1. All 26 alphabets (A–Z) were  displayed on the 7-segment display using manual input 
+1. All 8 alphabets (A–I) were  displayed on the 7-segment display using manual input 
 switches.
 2. The logic of OR gates effectively controlled the illumination of specific segments 
 corresponding to each character.
