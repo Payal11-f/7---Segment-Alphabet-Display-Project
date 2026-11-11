@@ -10,6 +10,8 @@ segments on the display using combinational logic built purely with OR gates.
 
 
 <img width="553" height="417" alt="image" src="https://github.com/user-attachments/assets/de73b652-19ad-4281-ac58-f5bead9d7109" />
+<img width="568" height="442" alt="image" src="https://github.com/user-attachments/assets/30eeb3bf-9dfc-4c7f-a8ec-420137635a31" />
+
 
 ## WORKING PRINCIPLE -
 ### Segment Selection via OR Gate Logic -
