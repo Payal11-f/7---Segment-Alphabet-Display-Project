@@ -31,8 +31,6 @@ A real-time display system made using only gates and switches — no code, just 
 
 
 <img width="515" height="502" alt="image" src="https://github.com/user-attachments/assets/3c3c0257-9467-493b-80d4-363274bb8dc2" />
-<img width="609" height="477" alt="image" src="https://github.com/user-attachments/assets/4ad0bbe0-29c7-4a74-94ba-5134f5e8fc8d" />
-<img width="471" height="220" alt="image" src="https://github.com/user-attachments/assets/4f3ac8ee-f077-45cf-8a20-d67576d5c17b" />
 
 
 <img width="593" height="582" alt="image" src="https://github.com/user-attachments/assets/ee8ab8b2-80fc-420b-b248-90e6d4e335bd" />
@@ -61,6 +59,10 @@ Ensure proper grounding and clean connections.
 ### Test Each Switch:
 Press individual switches and verify that the corresponding character appears correctly 
 on the display
+<img width="609" height="477" alt="image" src="https://github.com/user-attachments/assets/4ad0bbe0-29c7-4a74-94ba-5134f5e8fc8d" />
+<img width="471" height="220" alt="image" src="https://github.com/user-attachments/assets/4f3ac8ee-f077-45cf-8a20-d67576d5c17b" />
+
+
 
 ## RESULT
 The project successfully achieved the objective of designing a functional alphabet input 
