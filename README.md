@@ -56,6 +56,8 @@ Ensure proper grounding and clean connections.
 Press individual switches and verify that the corresponding character appears correctly 
 on the display
 <img width="609" height="477" alt="image" src="https://github.com/user-attachments/assets/4ad0bbe0-29c7-4a74-94ba-5134f5e8fc8d" />
+<img width="215" height="314" alt="image" src="https://github.com/user-attachments/assets/770d1ac4-8ec9-4ed3-bcc9-ffe8acc94237" />
+
 <img width="593" height="582" alt="image" src="https://github.com/user-attachments/assets/ee8ab8b2-80fc-420b-b248-90e6d4e335bd" />
 
 
